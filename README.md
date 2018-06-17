@@ -1,14 +1,16 @@
-# My Very First Web Page
+# Very First Web Page
 
 Welcome!
 
-## This is a h2
+About this project
+------------------
 
-### This is a h3
+This project was about learning the basics of web development.
 
-#### This is a h4
-
-##### This is a h5
-
-###### This is a h6
+Aspects covered so far
+-------------
++ HTML
+- CSS
+- IDEs for example Cloud9
+- git and github
 
